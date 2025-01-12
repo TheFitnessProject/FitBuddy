@@ -22,13 +22,13 @@ FitBuddy makes fitness fun, interactive, and personal.
 
 ## FitBuddy Sponsors
 ### Bronze
-<!-- bronze --><!-- bronze -->
+<!-- bronze -->None<!-- bronze -->
 ### Silver
-<!-- silver --><!-- silver -->
+<!-- silver -->None<!-- silver -->
 ### Gold
-<!-- gold --><!-- gold -->
+<!-- gold -->None<!-- gold -->
 ### Platinum
-<!-- platinum --><!-- platinum -->
+<!-- platinum -->None<!-- platinum -->
 
 
 
