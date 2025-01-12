@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/TheFitnessProject/art/main/logo-lockup/SVG/RGB/Full%20Color/fitbuddy-logo-rgb-fitbuddy_black.svg" width="400" alt="FitBuddy Logo" />
 </p>
 
@@ -38,4 +38,4 @@ FitBuddy makes fitness fun, interactive, and personal.
 
 ## License
 
-FitBuddy is open-sourced software licensed under the [GNU GPL 3.0](https://opensource.org/license/GPL-3.0).
+FitBuddy is open-sourced software licensed under the [GPL-3.0](https://opensource.org/license/GPL-3.0).
