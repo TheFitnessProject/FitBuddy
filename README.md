@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheFitnessProject/art/main/logo-lockup/SVG/RGB/Full%20Color/fitbuddy-logo-rgb-fitbuddy_black.svg" width="400" alt="FitBuddy Logo" />
+  <img src="https://raw.githubusercontent.com/TheFitnessProject/art/main/logo-lockup/SVG/RGB/Full%20Color/fitbuddy-logo-rgb-fitbuddy_white.svg" width="400" alt="FitBuddy Logo" />
 </p>
 
 ## About FitBuddy
